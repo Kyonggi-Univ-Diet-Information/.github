@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🍚 기룡아 밥먹자 : 경기대 식당 정보 플랫폼
+# 🍚 [기룡아 밥먹자 : 경기대 식당 정보 플랫폼](https://www.kiryong.site/)
 ### 편리하게 교내 식당 정보를 확인하세요!
 
 <img width="608" alt="kiryong-thumbnail" src="https://github.com/user-attachments/assets/7cbf4ea8-a6a1-44af-8702-e396e27c0778" />
