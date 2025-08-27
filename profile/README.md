@@ -71,15 +71,16 @@
 
 <table align="center">
     <tr>
-  <td align="center"><a href="http://github.com/boroboro01"/><img src=https://avatars.githubusercontent.com/u/98679575?v=4 width=300/>
-    <td align="center"><a href="https://github.com/HongSeongJo"/><img src=https://avatars.githubusercontent.com/u/164273757?v=4 width=300/>
-   <td align="center"><a href="https://github.com/cho4u4o"/><img src=https://avatars.githubusercontent.com/u/128016678?v=4 width=300/>
+      <td align="center"><a href="http://github.com/boroboro01"/><img src=https://avatars.githubusercontent.com/u/98679575?v=4 width=300/>
+      <td align="center"><a href="https://github.com/HongSeongJo"/><img src=https://avatars.githubusercontent.com/u/164273757?v=4 width=300/>
+      <td align="center"><a href="https://github.com/cho4u4o"/><img src=https://avatars.githubusercontent.com/u/128016678?v=4 width=300/>
+      <td align="center"><a href="https://github.com/iamjunhyeong"/><img src=https://avatars.githubusercontent.com/u/115024272?v=4 width=300/>
   </tr>
     <tr>
-  <td align="center"><a href="http://github.com/boroboro01"/>박성민</td>
-    <td align="center"><a href="https://github.com/HongSeongJo"/>홍성조</td>
-  <td align="center"><a href="https://github.com/cho4u4o"/>한유진</td>
-    
+      <td align="center"><a href="http://github.com/boroboro01"/>박성민</td>
+      <td align="center"><a href="https://github.com/HongSeongJo"/>홍성조</td>
+      <td align="center"><a href="https://github.com/cho4u4o"/>한유진</td>
+      <td align="center"><a href="https://github.com/iamjunhyeong"/>박준형</td>  
   </tr>
 </table>
     
