@@ -1,12 +1,14 @@
 <div align="center">
   
-# 🍚 기룡아 밥먹자 : 경기대 식당 정보 플랫폼
+## 🍚 기룡아 밥먹자 : 경기대 식당 정보 플랫폼
 ### 편리하게 교내 식당 정보를 확인하세요!
 [클릭하여 즉시 메뉴 확인](https://www.kiryong.kr/)
 
-<img width="608" alt="kiryong-thumbnail" src="https://github.com/user-attachments/assets/7cbf4ea8-a6a1-44af-8702-e396e27c0778" />
+<img width="748" height="374" alt="thumbnail" src="https://github.com/user-attachments/assets/4b981011-b0dd-44d4-b25f-5b7f9cbdedad" />
 
----
+<br/>
+<br/>
+
 
 **기숙사 식당 식단** 정보를 쉽게 알 수 있습니다.
 <br>
@@ -14,30 +16,20 @@
 <br>
 **교내 식당**에 대한 정보를 지도를 통해서 확인할 수 있습니다.
 
-# 🥟 Front-end Stacks
+## 🥟 Front-end Stacks
 
-<table align="center">
-    <tr>
-        <th>
-            Web
-        </th>
-        <td>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-        </td>
-    </tr>
-<tr>
-        <th>
-            Packages
-        </th>
-        <td>
-        <img src="https://img.shields.io/badge/Axios-5a29e4?style=for-the-badge&logo=axios&logoColor=white">
-        <img src="https://img.shields.io/badge/Pnpm-f69220?style=for-the-badge&logo=Pnpm&logoColor=white">
-        </td>
-    </tr>
-</table>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+<br/>
+![TailwindCss](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+<br/>
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
-# 🥟 Back-end Stacks
+## 🥟 Back-end Stacks
 
 <table align="center">
     <tr>
@@ -53,7 +45,7 @@
     </tr>
 </table>
 
-# 🌽 Code Conventions
+## 🌽 Code Conventions
 
 코드 컨벤션은 모두 소문자로 이루어집니다.
 
