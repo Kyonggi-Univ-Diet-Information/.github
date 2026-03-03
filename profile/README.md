@@ -1,8 +1,16 @@
 <div align="center">
   
+
+
+[<img width="450" alt="image" src="https://github.com/user-attachments/assets/0c6850bd-e3f5-472f-a63d-fa37baad1fe4" />](https://play.google.com/store/apps/details?id=apple.auth.diet.kyonggi.com)
+
+[<img width="388" alt="image" src="https://github.com/user-attachments/assets/211f11cd-347a-4cd7-9f2b-97e82fe28a16" />](https://apps.apple.com/kr/app/%EA%B8%B0%EB%A3%A1%EC%95%84-%EB%B0%A5%EB%A8%B9%EC%9E%90/id6758451053)
+
+<br/>
+
+
 ## 🍚 기룡아 밥먹자 : 경기대 식당 정보 플랫폼
 ### 편리하게 교내 식당 정보를 확인하세요!
-[클릭하여 즉시 메뉴 확인](https://www.kiryong.kr/)
 
 <img width="748" height="374" alt="thumbnail" src="https://github.com/user-attachments/assets/4b981011-b0dd-44d4-b25f-5b7f9cbdedad" />
 
